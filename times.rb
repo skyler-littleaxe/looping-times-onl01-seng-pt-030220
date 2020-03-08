@@ -1,8 +1,4 @@
-7.times do
-spell = "Wingardium Leviosa"
-  puts spell
-end
-
-
+using_times 
+puts "Wingardium Leviosa"
 
 
